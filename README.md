@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi there! 👋 I'm Kush Kumar
 
-<!--
-**kushkumar569/kushkumar569** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BTech Student in Computer Science and Engineering (CSE)**  
+🌱 **Currently Learning:** Full-Stack Development, Data Structures & Algorithms, Serverless Architecture  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Languages & Technologies
+
+**Programming:** JavaScript, TypeScript, Java, Python, C/C++  
+**Frontend:** React.js, Next.js, Tailwind CSS  
+**Backend:** Node.js, Express.js  
+**Databases:** MongoDB, SQL, PostgreSQL ,  Redis
+**DevOps & Tools:** Docker (Basics), aws, Postman, Git  
+
+---
+
+## 🚀 Projects
+
+🔹 **Geo-Fencing Attendance Manager**  
+  ●  Developed a location-based attendance system using React and Node.js with 
+  geo-fencing to verify user presence within a 10m radius.   
+  ●  Integrated dropdown venue selection and manual student ID entry for flexible   
+  attendance marking and administrative control.  
+
+🔹 **HeritageHub – A Digital Platform for Culture & Heritage**  
+  ●  Developed a web platform to showcase and preserve regional cultures, traditions,      
+  festivals, and historical landmarks.   
+  ● Designed interactive content sections to engage users and promote cultural awareness 
+  across diverse communities. 
+
+---
+
+## 📌 What I'm Exploring Next?
+- 🔥 Real-Time Code Collaboration Tool using advanced web technologies  
+- 🌍 Deploying & Scaling Apps with Docker, Kubernetes, and CI/CD  
+- 🤖 Building a Chatbot using React.js  
+
+---
+
+## 🔧 Skills
+- **Languages:** C++, Python, JavaScript, TypeScript  
+- **Frameworks:** React, Node.js, Express, Next.js  
+- **Tools:** VS Code, Sublime, Git, Postman, MongoDB Compass, MySQL Workbench, Docker (Familiar)  
+
+---
+
+## 📫 Let's Connect!
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/kush-kumar-876525257/)  
+- **Email:** kushk569@gmail.com 
+- **X:** [Your Website]([https://yourwebsite.com](https://x.com/kush_kushwaha_1)  
+
+---
+
+✨ *Feel free to check out my repositories and let’s collaborate on exciting projects!* 😄
