@@ -13,7 +13,7 @@
 **Databases:** MongoDB, SQL, PostgreSQL ,  Redis
 **DevOps & Tools:** Docker (Basics), aws, Postman, Git  
 
----
+--
 
 ## 🚀 Projects
 
