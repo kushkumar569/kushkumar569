@@ -46,9 +46,9 @@
 ---
 
 ## 📫 Let's Connect!
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/kush-kumar-876525257/)  
+- **LinkedIn:** [kush-kumar](https://www.linkedin.com/in/kush-kumar-876525257/)  
 - **Email:** kushk569@gmail.com 
-- **X:** [Your Website]([https://yourwebsite.com](https://x.com/kush_kushwaha_1)  
+- **X:** [kush_kushwaha_1](https://x.com/kush_kushwaha_1)
 
 ---
 
