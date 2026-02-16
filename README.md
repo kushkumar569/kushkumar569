@@ -11,12 +11,13 @@ Hi, I'm Kush Kumar 👋<br>Full-stack developer with hands-on internship experie
 
 <!-- use for inline comment, remove from GitHub Stats. when profile is become good -->
 
-<div style="background-color: black; padding: 10px; text-align: center;">
+<p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=kushkumar569&theme=dark&hide_border=false"
-    alt="kushkumar569 GitHub Streak Stats"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=kushkumar569&theme=dark"
+    alt="GitHub Streak Stats"
   />
-</div>
+</p>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
