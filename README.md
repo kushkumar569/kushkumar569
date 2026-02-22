@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me:-
 Hi, I'm Kush Kumar 👋<br>Full-stack developer with hands-on internship experience building reliable web applications and solving real-world problems.
 
 
